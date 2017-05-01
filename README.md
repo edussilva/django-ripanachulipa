@@ -16,5 +16,5 @@ Create your project
 Create your projecto with django-ripanachulipa template
 
 ```shell
-django-admin startproject --template=https://github.com/edussilva/django-ripanachulipa/archive/master.zip project_name [directory]
+django-admin startproject -n .env --template=https://github.com/edussilva/django-ripanachulipa/archive/master.zip project_name [directory]
 ```
